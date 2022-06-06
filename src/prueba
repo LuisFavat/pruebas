@@ -1,1 +1,3 @@
 Este linea representa el commit 1.Esta oracion la estoy agregando desde la pagina de github, y voy hacer un merge a ver que pasa. La idea es ver la diferencia entre merge y rebase.
+
+bueno el merge borro la linea 2 que tenia en mi maquina y dejo tal cual estaba en github ahora agregue esta linea y en la pc voy a modificar la linea 1.
