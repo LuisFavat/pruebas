@@ -1,7 +1,9 @@
-Este (pk linea agregada)linea representa el commit 1.Esta oracion la estoy agregando desde la pagina de github, y voy hacer un merge a ver que pasa. La idea es ver la diferencia entre merge y rebase.
+1) Este (pk linea agregada)linea representa el commit 1.Esta oracion la estoy agregando desde la pagina de github, y voy hacer un merge a ver que pasa. La idea es ver la diferencia entre merge y rebase.
 ver que pasa con esta linea.
 
 bueno el merge borro la linea 2 que tenia en mi maquina y dejo tal cual estaba en github ahora agregue esta linea y en la pc voy a modificar la linea 1.
 
 bueno mergue lo que hizo fue dejar pk linea agregada y la linea 2 (que solo estaba en mi maquina)  y agrego la linea 4. O sea cuando no se modifica el codigo de la maquina,
  agrega lo que hay nuevo y deja las modificaciones locales.
+ 
+Agrego esta linea a ver que pasa.
